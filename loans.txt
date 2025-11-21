@@ -1,3 +1,4 @@
 borrower=Alice
 05 November 2025; Clean Code
 06 November 2025; Effective Java
+Good Python
